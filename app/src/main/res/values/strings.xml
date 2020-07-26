@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrafficReduction</string>
+    <string name="title_home">Home</string>
+    <string name="title_addPlace">Add</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
